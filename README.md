@@ -22,3 +22,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrenda&show_icons=true&locale=en" alt="sabrenda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrenda&" alt="sabrenda" /></p>
+
+## Codewarrior Profile Badges
+<img src="https://www.codewars.com/users/Saga95/badges/large">
+
+## Github stats
+![trophy](https://github-profile-trophy.vercel.app/?username=sabrenda&theme=onedark)  
+![](https://komarev.com/ghpvc/?username=sabrenda&color=grey)
