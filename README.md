@@ -1,7 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrenda&show_icons=true&locale=en&layout=compact" alt="sabrenda" /></p>
-
 ## Codewarrior Profile Badges
 <img src="https://www.codewars.com/users/Saga95/badges/large">
 
