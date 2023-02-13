@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhmed Akhmatov</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ahmatov</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
 
