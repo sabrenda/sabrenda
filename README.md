@@ -9,8 +9,7 @@
 - 💬 Ask me about: 
 - **JavaScript, HTML, CSS, Jest, PostgreSQL, C, BASH**
 
-- 📫 How to reach me **sabrendaa@gmail.com
-**
+- 📫 How to reach me **sabrendaa@gmail.com**
 
 - ⚡ Fun fact **I think I am cheerful and very hardworking**
 
