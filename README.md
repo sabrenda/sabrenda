@@ -1,4 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<h1 align="center">Hi 👋, I'm Akhmed Akhmatov</h1>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safonovav&label=Profile%20views&color=0e75b6&style=flat" alt="safonovav" /> </p>
 
