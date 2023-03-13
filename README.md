@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about: 
-- **JavaScript, HTML, CSS, Jest, PostgreSQL, C, BASH**
+- **JavaScript, C/C++, BASH, HTML/CSS, Jest, PostgreSQL**
 
 - 📫 How to reach me **sabrendaa@gmail.com**
 
