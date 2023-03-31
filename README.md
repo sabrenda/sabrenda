@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safonovav&label=Profile%20views&color=0e75b6&style=flat" alt="safonovav" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, Golang**
 
-- 💬 My stack: 
+- 📚 My stack: 
 - **C/C++, BASH, JavaScript, React, Redux, Express, PostgreSQL, Jest, HTML/CSS, TypeScript**
 
 - 📫 How to reach me **sabrendaa@gmail.com**
