@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/2I9J.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safonovav&label=Profile%20views&color=0e75b6&style=flat" alt="safonovav" /> </p>
 
