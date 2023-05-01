@@ -22,6 +22,8 @@
      <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
   </a>&nbsp;&nbsp;&nbsp;
   
+  <br/>
+  
 ---
 
 <br/>
