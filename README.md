@@ -19,11 +19,12 @@
    <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/">
      <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
   </a>&nbsp;&nbsp;&nbsp;
+  
+---
 
 <br />
-<br />
-<br />
 
+<h3 align="left">👨🏻‍💻 My Tech Stack:</h3>
 
 Techonologies | Description                 | Tools
 --- |-----------------------------| ---
