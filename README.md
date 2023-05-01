@@ -6,7 +6,9 @@
 
 
 - 📚 **My stack:** C/C++, BASH, JavaScript, React, Redux, Express, PostgreSQL, Jest, HTML/CSS, TypeScript
+
 - 🌱 **I’m currently learning:** TypeScript, Golang
+
 - 📫 **How to reach me:** sabrendaa@gmail.com
 
 <h3 align="left">My contacts:</h3>
