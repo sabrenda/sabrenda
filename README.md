@@ -1,23 +1,62 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pgi544guvjs6vkiis4deqh63umkhqx72ng50s65d&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safonovav&label=Profile%20views&color=0e75b6&style=flat" alt="safonovav" /> </p>
-
-
-- 📚 **My stack:** C/C++, BASH, JavaScript, React, Redux, Express, PostgreSQL, Jest, HTML/CSS, TypeScript
-
-- 🌱 **I’m currently learning:** TypeScript, Golang
-
-- 📫 **How to reach me:** sabrendaa@gmail.com
-
 <h3 align="left">My contacts:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/" rel="nofollow"><img align="left" alt="LinkedIn" width="40px" src="https://camo.githubusercontent.com/e2cb3e9b628d934cc325efa9dd437bcf60d947c47e98f6341ae8d2d594a6c600/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2d322d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" style="max-width: 100%;"></a>  
-<a href="https://t.me/sabrenda" rel="nofollow"><img align="left" alt="Telegram" width="40px" src="https://camo.githubusercontent.com/91bdc89e65022b9befe1428acbdac06f03eccfb22c47b5ca34527253ceee1a6b/68747470733a2f2f74656c656772616d2e6f72672f696d672f745f6c6f676f2e7376673f31" data-canonical-src="https://telegram.org/img/t_logo.svg?1" style="max-width: 100%;"></a>
+  
+  <a target="_blank" href="mailto:sabrendaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a target="_blank" href="https://t.me/sabrenda">
+    <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+   <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/">
+     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
-<br>
-<br>
-<br>
-<br>
-<p align="left"><h3 align="left">Languages and Tools:</h3></p>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" alt="redux" width="40" height="40"/> </a></p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<h2 align="center">💬 Find me:</h2>
+<p align="center">
+  <a target="_blank" href="mailto:sabrendaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a target="_blank" href="https://t.me/sabrenda">
+    <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+   <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/">
+     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+Techonologies | Description                 | Tools
+--- |-----------------------------| ---
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/C/C++-20232A?style=for-the-badge&logo=C) | methodology                |![MVC](https://img.shields.io/badge/mvc-20232A?style=for-the-badge) ![DOM](https://img.shields.io/badge/dom-20232A?style=for-the-badge) ![TDD](https://img.shields.io/badge/tdd-20232A?style=for-the-badge) ![AJAX](https://img.shields.io/badge/ajax-20232A?style=for-the-badge) ![SOLID](https://img.shields.io/badge/solid-20232A?style=for-the-badge) ![OOP](https://img.shields.io/badge/oop-20232A?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) | services                    | ![react-router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router) ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD) ![Chart.js](https://img.shields.io/badge/Chart.js-20232A?style=for-the-badge&logo=chart.js) ![React-Pdf](https://img.shields.io/badge/React.Pdf-20232A?style=for-the-badge&logo=adobeacrobatreader)
+![NodeJS](https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js) | stack                       | ![Express](https://img.shields.io/badge/express.js-20232A?style=for-the-badge&logo=express) ![Axios](https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios) ![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens) ![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6) | preprocessors & principles  | ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass) ![figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma) ![BootsTrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap) ![MUI](https://img.shields.io/badge/Material--UI-20232A?style=for-the-badge&logo=MUI)
+DATA | ORM & DATABASE                  |![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
+Development & Deploy | services                    | ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue) ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github) ![git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
+Testing | test                        | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-the-badge&logo=jest&logoColor=brown) ![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman) ![eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
+Currently learning|   | ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript) ![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go)
+
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safonovav&label=Profile%20views&color=0e75b6&style=flat" alt="safonovav" /> </p>
