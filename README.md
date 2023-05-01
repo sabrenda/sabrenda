@@ -24,8 +24,7 @@
   
 ---
 
-<br />
-
+<br/>
 <h3 align="left">👨🏻‍💻 My Tech Stack:</h3>
 
 Techonologies | Description                 | Tools
