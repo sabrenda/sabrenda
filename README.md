@@ -36,7 +36,7 @@ Techonologies | Description                 | Tools
 DATA | ORM & DATABASE                  |![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
 Development & Deploy | services                    | ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue) ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github) ![git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
 Testing | test                        | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-the-badge&logo=jest&logoColor=brown) ![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman) ![eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
-Currently learning|   | ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript) ![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go)
+Currently learning|  no pain no gain | ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript) ![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go) ![Rust](https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust) ![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=Solidity)
 
 <br />
 <br />
