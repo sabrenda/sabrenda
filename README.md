@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning: **TypeScript, Golang**
 
-- 📚 My stack: 
-- **C/C++, BASH, JavaScript, React, Redux, Express, PostgreSQL, Jest, HTML/CSS, TypeScript**
+- 📚 My stack: **C/C++, BASH, JavaScript, React, Redux, Express, PostgreSQL, Jest, HTML/CSS, TypeScript**
 
 - 📫 How to reach me: **sabrendaa@gmail.com**
 
