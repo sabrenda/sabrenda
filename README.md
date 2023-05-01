@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="350" height="300" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920"/>
+<img align="right" alt="Coding" width="300" height="300" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920"/>
 
 <h3 align="left">💬 Find me:</h3>
 
@@ -13,7 +13,7 @@
   <a target="_blank" href="https://t.me/sabrenda">
     <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
   </a>&nbsp;&nbsp;&nbsp;
-
+  
 ---
 
    <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/">
