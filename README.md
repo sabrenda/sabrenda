@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pgi544guvjs6vkiis4deqh63umkhqx72ng50s65d&rid=giphy.gif&ct=g">
 
-<h3 align="left">My contacts:</h3>
+<h3 align="left">💬 Find me:</h3>
 
 <p align="left">
   
@@ -26,24 +26,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
-<h2 align="center">💬 Find me:</h2>
-<p align="center">
-  <a target="_blank" href="mailto:sabrendaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a target="_blank" href="https://t.me/sabrenda">
-    <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
-   <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/">
-     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
 
 Techonologies | Description                 | Tools
 --- |-----------------------------| ---
