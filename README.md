@@ -3,28 +3,32 @@
 <img align="right" alt="Coding" width="300" height="300" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920"/>
 
 <h3 align="left">💬 Find me:</h3>
+<a target="_blank" href="mailto:sabrendaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>
+<a target="_blank" href="https://t.me/sabrenda"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>  
+<a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" /></a>
+
+---
+<h3 align="left">📋 List of fullstack development projects:</h3>
+
+Project name|Description|Link|Stack
+-|-|-|-
+CRM system|system for internal needs of the company for personnel monitoring|NDA|![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) 
+sts Galya|advertising cashier simulator game|[StsGame](https://pikabu.ru/story/_10706909)| ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
+Lost Ark|landing page for the game Ark|[Lost Ark](https://special.pikabu.ru/lost_ark/fourth_birthday)| ![Sveltekit](https://img.shields.io/badge/Sveltekit-20232A?style=for-the-badge&logo=svelte) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
+Tochka|open voting to find the right vacancy|[Tochka](https://special.pikabu.ru/tochka_hr/dream_work)| ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/Sass\/Scss-20232A?style=for-the-badge&logo=sass) ![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
+
+<h3 align="left">📋 List of PET-projects in С:</h3>
+ 
+Project name|Description
+-|-
+libft|Native implementation of the library of standard functions in the C language. Link to GitHub Repo.
+GNL| A small program for reading information from a file. Link to GitHub Repo.
+ft_printf|Native implementation of the standard printf function. Link to GitHub Repo.
+Minishell|Teamwork to develop your own shell for the MAC system. Link to GitHub Repo.
+philosophers|A project to study multithreading based on the Problem of Dining Philosophers. Link to GitHub Repo.
 
 ---
 
-  <a target="_blank" href="mailto:sabrendaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
-  </a>&nbsp;&nbsp;&nbsp;
-
----
-
-  <a target="_blank" href="https://t.me/sabrenda">
-    <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
----
-
-   <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/">
-     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
----
-
-<br/>
 <h3 align="left">👨🏻‍💻 My Tech Stack:</h3>
 
 Techonologies | Description                 | Tools
