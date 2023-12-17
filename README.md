@@ -19,11 +19,13 @@ Tochka|open voting to find the right vacancy|[Tochka](https://special.pikabu.ru/
  
 Project name|Description
 -|-
-libft|Native implementation of the library of standard functions in the C language. Link to GitHub Repo.
-GNL| A small program for reading information from a file. Link to GitHub Repo.
-ft_printf|Native implementation of the standard printf function. Link to GitHub Repo.
-Minishell|Teamwork to develop your own shell for the MAC system. Link to GitHub Repo.
-philosophers|A project to study multithreading based on the Problem of Dining Philosophers. Link to GitHub Repo.
+libft|Native implementation of the library of standard functions in the C language. [Link](https://github.com/sabrenda/libft) to GitHub Repo.
+GNL| A small program for reading information from a file. [Link](https://github.com/sabrenda/get_next_line) to GitHub Repo.
+ft_printf|Native implementation of the standard printf function. [Link](https://github.com/sabrenda/ft_printf) to GitHub Repo.
+Minishell|Teamwork to develop your own shell for the MAC system. [Link](https://github.com/sabrenda/Minishell) to GitHub Repo.
+libAsm|The goal is to re-write simple C functions in assembly. [Link](https://github.com/sabrenda/libAsm) to GitHub Repo.
+Pixep|The purpose of this project is the discovery in detail UNIX mechanism - pipe [Link](https://github.com/sabrenda/Pipex) to GitHub Repo.
+philosophers|A project to study multithreading based on the Problem of Dining Philosophers. [Link](https://github.com/sabrenda/Philosophers) to GitHub Repo.
 
 ---
 
