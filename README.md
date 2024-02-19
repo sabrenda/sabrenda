@@ -22,9 +22,10 @@ Project name|Description
 libft|Native implementation of the library of standard functions in the C language. [Link](https://github.com/sabrenda/libft) to GitHub Repo.
 GNL| A small program for reading information from a file. [Link](https://github.com/sabrenda/get_next_line) to GitHub Repo.
 ft_printf|Native implementation of the standard printf function. [Link](https://github.com/sabrenda/ft_printf) to GitHub Repo.
+Cub3D| 3D Educational project for rendering a frame using the minilibX library in C. [Link](https://github.com/sabrenda/Cub3D) to GitHub Repo.
 Minishell|Teamwork to develop your own shell for the MAC system. [Link](https://github.com/sabrenda/Minishell) to GitHub Repo.
 libAsm|The goal is to re-write simple C functions in assembly. [Link](https://github.com/sabrenda/libAsm) to GitHub Repo.
-Pixep|The purpose of this project is the discovery in detail UNIX mechanism - pipe [Link](https://github.com/sabrenda/Pipex) to GitHub Repo.
+Pipex|The purpose of this project is the discovery in detail UNIX mechanism - pipe [Link](https://github.com/sabrenda/Pipex) to GitHub Repo.
 philosophers|A project to study multithreading based on the Problem of Dining Philosophers. [Link](https://github.com/sabrenda/Philosophers) to GitHub Repo.
 
 ---
