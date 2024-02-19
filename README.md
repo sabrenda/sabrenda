@@ -15,18 +15,21 @@ sts Galya|advertising cashier simulator game, interactive on the page|[Link](htt
 Lost Ark|landing page for the game Ark|[Link](https://special.pikabu.ru/lost_ark/fourth_birthday)| ![Sveltekit](https://img.shields.io/badge/Sveltekit-20232A?style=for-the-badge&logo=svelte) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
 Tochka|open voting to find the right vacancy|[Link](https://special.pikabu.ru/tochka_hr/dream_work)| ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/Sass\/Scss-20232A?style=for-the-badge&logo=sass) ![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
 Кухня на районе|interactive advertising on the page|[Link](https://pikabu.ru/story/_10940186)| ![Sveltekit](https://img.shields.io/badge/Sveltekit-20232A?style=for-the-badge&logo=svelte) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![SASS](https://img.shields.io/badge/Sass\/Scss-20232A?style=for-the-badge&logo=sass) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
+
+ ---
+
 <h3 align="left">📋 List of PET-projects in С:</h3>
  
-Project name|Description
--|-
-libft|Native implementation of the library of standard functions in the C language. [Link](https://github.com/sabrenda/libft) to GitHub Repo.
-GNL| A small program for reading information from a file. [Link](https://github.com/sabrenda/get_next_line) to GitHub Repo.
-ft_printf|Native implementation of the standard printf function. [Link](https://github.com/sabrenda/ft_printf) to GitHub Repo.
-Cub3D| 3D Educational project for rendering a frame using the minilibX library in C. [Link](https://github.com/sabrenda/Cub3D) to GitHub Repo.
-Minishell|Teamwork to develop your own shell for the MAC system. [Link](https://github.com/sabrenda/Minishell) to GitHub Repo.
-libAsm|The goal is to re-write simple C functions in assembly. [Link](https://github.com/sabrenda/libAsm) to GitHub Repo.
-Pipex|The purpose of this project is the discovery in detail UNIX mechanism - pipe [Link](https://github.com/sabrenda/Pipex) to GitHub Repo.
-philosophers|A project to study multithreading based on the Problem of Dining Philosophers. [Link](https://github.com/sabrenda/Philosophers) to GitHub Repo.
+Project name|Description|GitHub Repo
+-|-|-
+libft|Native implementation of the library of standard functions in the C language.| [Link](https://github.com/sabrenda/libft)
+GNL| A small program for reading information from a file.| [Link](https://github.com/sabrenda/get_next_line)
+ft_printf|Native implementation of the standard printf function.| [Link](https://github.com/sabrenda/ft_printf)
+Cub3D| 3D Educational project for rendering a frame using the minilibX library in C.| [Link](https://github.com/sabrenda/Cub3D)
+Minishell|Teamwork to develop your own shell for the MAC system.| [Link](https://github.com/sabrenda/Minishell)
+libAsm|The goal is to re-write simple C functions in assembly.| [Link](https://github.com/sabrenda/libAsm)
+Pipex|The purpose of this project is the discovery in detail UNIX mechanism - pipe.| [Link](https://github.com/sabrenda/Pipex)
+philosophers|A project to study multithreading based on the Problem of Dining Philosophers.| [Link](https://github.com/sabrenda/Philosophers)
 
 ---
 
