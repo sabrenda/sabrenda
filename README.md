@@ -5,6 +5,8 @@
 <a target="_blank" href="https://t.me/sabrenda"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>  
 <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" /></a>
 
+<br/>
+
 ---
 <h3 align="left">📋 List of fullstack development projects:</h3>
 
@@ -16,10 +18,13 @@ Lost Ark|landing page for the game Ark|[Link](https://special.pikabu.ru/lost_ark
 Tochka|open voting to find the right vacancy|[Link](https://special.pikabu.ru/tochka_hr/dream_work)| ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/Sass\/Scss-20232A?style=for-the-badge&logo=sass) ![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
 Кухня на районе|interactive advertising on the page|[Link](https://pikabu.ru/story/_10940186)| ![Sveltekit](https://img.shields.io/badge/Sveltekit-20232A?style=for-the-badge&logo=svelte) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![SASS](https://img.shields.io/badge/Sass\/Scss-20232A?style=for-the-badge&logo=sass) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
 
+<br/>
+
  ---
 
-<h3 align="left">📋 List of PET-projects in С:</h3>
+<h3 align="left">📋 Educational projects of the training program of the School of programming 21 (42 ecole):</h3>
  
+
 Project name|Description|GitHub Repo
 -|-|-
 libft|Native implementation of the library of standard functions in the C language.| [Link](https://github.com/sabrenda/libft)
@@ -30,6 +35,8 @@ Minishell|Teamwork to develop your own shell for the MAC system.| [Link](https:/
 libAsm|The goal is to re-write simple C functions in assembly.| [Link](https://github.com/sabrenda/libAsm)
 Pipex|The purpose of this project is the discovery in detail UNIX mechanism - pipe.| [Link](https://github.com/sabrenda/Pipex)
 philosophers|A project to study multithreading based on the Problem of Dining Philosophers.| [Link](https://github.com/sabrenda/Philosophers)
+
+<br/>
 
 ---
 
