@@ -39,10 +39,27 @@ Project name|Description|Link
 
 ---
 
+<br/>
+
+<h3 align="left">📋 List of fullstack development projects:</h3>
+
+Project name|Description|🔗
+-|-|-
+**CRM**|system for internal needs of the company for personnel monitoring|NDA
+**STS Game**|advertising cashier simulator game, interactive on the page|[Link](https://pikabu.ru/story/_10706909)
+**Lost Ark**|landing page for the game Ark|[Link](https://special.pikabu.ru/lost_ark/fourth_birthday)
+**Tochka**|open voting to find the right vacancy|[Link](https://special.pikabu.ru/tochka_hr/dream_work)
+**Кухня на районе**|interactive advertising on the page|[Link](https://pikabu.ru/story/_10940186)
+
+<br/>
+
+---
+
+<br/>
+
 <h3 align="left">📋 Educational projects of the training program of the School of programming 21 (42 ecole):</h3>
  
-
-Project name|Description|GitHub Repo
+Project name|Description|🔗
 -|-|-
 **Libft**|Native implementation of the library of standard functions in the C language.| [Link](https://github.com/sabrenda/libft)
 **GNL**| A small program for reading information from a file.| [Link](https://github.com/sabrenda/get_next_line)
@@ -52,20 +69,6 @@ Project name|Description|GitHub Repo
 **libAsm**|The goal is to re-write simple C functions in assembly.| [Link](https://github.com/sabrenda/libAsm)
 **Pipex**|The purpose of this project is the discovery in detail UNIX mechanism - pipe.| [Link](https://github.com/sabrenda/Pipex)
 **philosophers**|A project to study multithreading based on the Problem of Dining Philosophers.| [Link](https://github.com/sabrenda/Philosophers)
-
-<br/>
-
----
-
-<h3 align="left">📋 List of fullstack development projects:</h3>
-
-Project name|Description|Link|Stack
--|-|-|-
-**CRM**|system for internal needs of the company for personnel monitoring|NDA| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![react-router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router) ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD) ![Chart.js](https://img.shields.io/badge/Chart.js-20232A?style=for-the-badge&logo=chart.js) ![React-Pdf](https://img.shields.io/badge/React.Pdf-20232A?style=for-the-badge&logo=adobeacrobatreader) ![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue) ![Express](https://img.shields.io/badge/express.js-20232A?style=for-the-badge&logo=express) ![Axios](https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios) ![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens) ![MUI](https://img.shields.io/badge/Material--UI-20232A?style=for-the-badge&logo=MUI)
-**STS Game**|advertising cashier simulator game, interactive on the page|[Link](https://pikabu.ru/story/_10706909)| ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue) 
-**Lost Ark**|landing page for the game Ark|[Link](https://special.pikabu.ru/lost_ark/fourth_birthday)| ![Sveltekit](https://img.shields.io/badge/Sveltekit-20232A?style=for-the-badge&logo=svelte) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
-**Tochka**|open voting to find the right vacancy|[Link](https://special.pikabu.ru/tochka_hr/dream_work)| ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/Sass\/Scss-20232A?style=for-the-badge&logo=sass) ![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
-**Кухня на районе**|interactive advertising on the page|[Link](https://pikabu.ru/story/_10940186)| ![Sveltekit](https://img.shields.io/badge/Sveltekit-20232A?style=for-the-badge&logo=svelte) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![SASS](https://img.shields.io/badge/Sass\/Scss-20232A?style=for-the-badge&logo=sass) ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue)
 
 <br />
 <br />
