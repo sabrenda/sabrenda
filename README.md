@@ -49,6 +49,8 @@ Project name|Description|🔗
 **Lost Ark**|landing page for the game Ark|[Link](https://special.pikabu.ru/lost_ark/fourth_birthday)
 **Tochka**|open voting to find the right vacancy|[Link](https://special.pikabu.ru/tochka_hr/dream_work)
 **Кухня на районе**|interactive advertising on the page|[Link](https://pikabu.ru/story/_10940186)
+**Level group**|interactive novella, a tour of the Level of Silegerskaya|[Link](https://pikabu.ru/story/_11039036?secret=c09d5de45659722b78e1e3db2057211946b384c56a49ae02d0ec5c40749fb6c2)
+**Major Grom**| 3D game, help Major Grom find the best deals on Yandex market|[Link](https://pikabu.ru/story/_10940186](https://special.pikabu.ru/yandex_poisk/smashing_game))
 
 <br/>
 
