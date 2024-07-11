@@ -30,7 +30,7 @@ Techonologies | Tools
 
 ![Web3](https://img.shields.io/badge/Web3-Projects-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-Project name|Description|Link
+Project name|Description|🔽
 -|-|-
 **Magic Ai**|MAGIC AI offers a pioneering platform to create diverse NFTs, from cyberpunk to anime, using advanced AI. Earn rewards, climb the leaderboard, and participate in a community-driven ecosystem.|www.magic-ai.xyz
 
@@ -42,16 +42,16 @@ Project name|Description|Link
 
 <h3 align="left">📋 List of fullstack development projects:</h3>
 
-Project name|Description|🔗
+Project name|Description|🔽 link
 -|-|-
 **CRM**|system for internal needs of the company for personnel monitoring|NDA
-**STS Game**|advertising cashier simulator game, interactive on the page|[Link](https://pikabu.ru/story/_10706909)
-**Lost Ark**|landing page for the game Ark|[Link](https://special.pikabu.ru/lost_ark/fourth_birthday)
-**Tochka**|open voting to find the right vacancy|[Link](https://special.pikabu.ru/tochka_hr/dream_work)
-**Кухня на районе**|interactive advertising on the page|[Link](https://pikabu.ru/story/_10940186)
-**Level group**|interactive novella, a tour of the Level of Silegerskaya|[Link](https://pikabu.ru/story/_11039036?secret=c09d5de45659722b78e1e3db2057211946b384c56a49ae02d0ec5c40749fb6c2)
-**Major Grom**| 3D game, help Major Grom find the best deals on Yandex market|[Link](https://special.pikabu.ru/yandex_poisk/smashing_game)
-**Gorilla**| Clicker game, interactive on the page |[Link](https://pikabu.ru/story/_11574350)
+**STS Game**|advertising cashier simulator game, interactive on the page|[▶️ Link](https://pikabu.ru/story/_10706909)
+**Lost Ark**|landing page for the game Ark|[▶️ Link](https://special.pikabu.ru/lost_ark/fourth_birthday)
+**Tochka**|open voting to find the right vacancy|[▶️ Link](https://special.pikabu.ru/tochka_hr/dream_work)
+**Кухня на районе**|interactive advertising on the page|[▶️ Link](https://pikabu.ru/story/_10940186)
+**Level group**|interactive novella, a tour of the Level of Silegerskaya|[▶️ Link](https://pikabu.ru/story/_11039036?secret=c09d5de45659722b78e1e3db2057211946b384c56a49ae02d0ec5c40749fb6c2)
+**Major Grom**| 3D game, help Major Grom find the best deals on Yandex market|[▶️ Link](https://special.pikabu.ru/yandex_poisk/smashing_game)
+**Gorilla**| Clicker game, interactive on the page |[▶️ Link](https://pikabu.ru/story/_11574350)
 
 <br/>
 
@@ -61,16 +61,16 @@ Project name|Description|🔗
 
 <h3 align="left">📋 Educational projects of the training program of the School of programming 21 (42 ecole):</h3>
  
-Project name|Description|🔗
+Project name|Description|🔽 link
 -|-|-
-**Libft**|Native implementation of the library of standard functions in the C language.| [Link](https://github.com/sabrenda/libft)
-**GNL**| A small program for reading information from a file.| [Link](https://github.com/sabrenda/get_next_line)
-**ft_printf**|Native implementation of the standard printf function.| [Link](https://github.com/sabrenda/ft_printf)
-**Cub3D**| 3D Educational project for rendering a frame using the minilibX library in C.| [Link](https://github.com/sabrenda/Cub3D)
-**Minishell**|Teamwork to develop your own shell for the MAC system.| [Link](https://github.com/sabrenda/Minishell)
-**libAsm**|The goal is to re-write simple C functions in assembly.| [Link](https://github.com/sabrenda/libAsm)
-**Pipex**|The purpose of this project is the discovery in detail UNIX mechanism - pipe.| [Link](https://github.com/sabrenda/Pipex)
-**philosophers**|A project to study multithreading based on the Problem of Dining Philosophers.| [Link](https://github.com/sabrenda/Philosophers)
+**Libft**|Native implementation of the library of standard functions in the C language.| [▶️ Link](https://github.com/sabrenda/libft)
+**GNL**| A small program for reading information from a file.| [▶️ Link](https://github.com/sabrenda/get_next_line)
+**ft_printf**|Native implementation of the standard printf function.| [▶️ Link](https://github.com/sabrenda/ft_printf)
+**Cub3D**| 3D Educational project for rendering a frame using the minilibX library in C.| [▶️ Link](https://github.com/sabrenda/Cub3D)
+**Minishell**|Teamwork to develop your own shell for the MAC system.| [▶️ Link](https://github.com/sabrenda/Minishell)
+**libAsm**|The goal is to re-write simple C functions in assembly.| [▶️ Link](https://github.com/sabrenda/libAsm)
+**Pipex**|The purpose of this project is the discovery in detail UNIX mechanism - pipe.| [▶️ Link](https://github.com/sabrenda/Pipex)
+**philosophers**|A project to study multithreading based on the Problem of Dining Philosophers.| [▶️ Link](https://github.com/sabrenda/Philosophers)
 
 <br />
 <br />
