@@ -51,7 +51,7 @@ Project name|Description|🔗
 **Кухня на районе**|interactive advertising on the page|[Link](https://pikabu.ru/story/_10940186)
 **Level group**|interactive novella, a tour of the Level of Silegerskaya|[Link](https://pikabu.ru/story/_11039036?secret=c09d5de45659722b78e1e3db2057211946b384c56a49ae02d0ec5c40749fb6c2)
 **Major Grom**| 3D game, help Major Grom find the best deals on Yandex market|[Link](https://special.pikabu.ru/yandex_poisk/smashing_game)
-**Gorilla*| Clicker game, interactive on the page |[Link](https://pikabu.ru/story/_11574350)
+**Gorilla**| Clicker game, interactive on the page |[Link](https://pikabu.ru/story/_11574350)
 
 <br/>
 
