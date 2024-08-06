@@ -30,7 +30,7 @@ Techonologies | Tools
 
 ![Web3](https://img.shields.io/badge/Web3-Projects-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-Project name|Description|🔽
+Project name|Description|link
 -|-|-
 **Magic Ai**|MAGIC AI offers a pioneering platform to create diverse NFTs, from cyberpunk to anime, using advanced AI. Earn rewards, climb the leaderboard, and participate in a community-driven ecosystem.|www.magic-ai.xyz
 
@@ -42,7 +42,7 @@ Project name|Description|🔽
 
 <h3 align="left">📋 List of fullstack development projects:</h3>
 
-Project name|Description|🔽 link
+Project name|Description|link
 -|-|-
 **CRM**|system for internal needs of the company for personnel monitoring|NDA
 **STS Game**|advertising cashier simulator game, interactive on the page|[▶️ Link](https://pikabu.ru/story/_10706909)
@@ -61,7 +61,7 @@ Project name|Description|🔽 link
 
 <h3 align="left">📋 Educational projects of the training program of the School of programming 21 (42 ecole):</h3>
  
-Project name|Description|🔽 link
+Project name|Description|link
 -|-|-
 **Libft**|Native implementation of the library of standard functions in the C language.| [▶️ Link](https://github.com/sabrenda/libft)
 **GNL**| A small program for reading information from a file.| [▶️ Link](https://github.com/sabrenda/get_next_line)
