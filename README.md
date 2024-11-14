@@ -34,6 +34,7 @@ Project name|Description|link
 -|-|-
 **Magic Ai**|MAGIC AI offers a pioneering platform to create diverse NFTs, from cyberpunk to anime, using advanced AI. Earn rewards, climb the leaderboard, and participate in a community-driven ecosystem.|www.magic-ai.xyz
 **Monsta**|Unique crypto game with meme characters and simple earning mechanics|https://monsta.game/
+**Rubyscore**|Multichain analytics and Web3 wallet ranking|https://rubyscore.io/
 
 <br/>
 
