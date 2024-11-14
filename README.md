@@ -55,8 +55,6 @@ Project name|Description|link
 **Major Grom**| 3D game, help Major Grom find the best deals on Yandex market|[▶️ Link](https://special.pikabu.ru/yandex_poisk/smashing_game)
 **Gorilla**| Clicker game, interactive on the page |[▶️ Link](https://pikabu.ru/story/_11574350)
 
-<br/>
-
 ---
 
 <br/>
