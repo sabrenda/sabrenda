@@ -28,24 +28,14 @@ Techonologies | Tools
 
 <br/>
 
-![Web3](https://img.shields.io/badge/Web3-Projects-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+<h3 align="left">📋 List of development projects:</h3>
 
 Project name|Description|link
 -|-|-
-**Magic Ai**|MAGIC AI offers a pioneering platform to create diverse NFTs, from cyberpunk to anime, using advanced AI. Earn rewards, climb the leaderboard, and participate in a community-driven ecosystem.|www.magic-ai.xyz
+**Qstme**|NDA|NDA
 **Monsta**|Unique crypto game with meme characters and simple earning mechanics|https://monsta.game/
 **Rubyscore**|Multichain analytics and Web3 wallet ranking|https://rubyscore.io/
-
-<br/>
-
----
-
-<br/>
-
-<h3 align="left">📋 List of fullstack development projects:</h3>
-
-Project name|Description|link
--|-|-
+**Magic Ai**|MAGIC AI offers a pioneering platform to create diverse NFTs, from cyberpunk to anime, using advanced AI. Earn rewards, climb the leaderboard, and participate in a community-driven ecosystem.|www.magic-ai.xyz
 **CRM**|system for internal needs of the company for personnel monitoring|NDA
 **STS Game**|advertising cashier simulator game, interactive on the page|[▶️ Link](https://pikabu.ru/story/_10706909)
 **Lost Ark**|landing page for the game Ark|[▶️ Link](https://special.pikabu.ru/lost_ark/fourth_birthday)
