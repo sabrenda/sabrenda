@@ -33,9 +33,9 @@ Techonologies | Tools
 Project name|Description|link
 -|-|-
 **Qstme**|NDA|NDA
-**Monsta**|Unique crypto game with meme characters and simple earning mechanics|https://monsta.game/
-**Rubyscore**|Multichain analytics and Web3 wallet ranking|https://rubyscore.io/
-**Magic Ai**|MAGIC AI offers a pioneering platform to create diverse NFTs, from cyberpunk to anime, using advanced AI. Earn rewards, climb the leaderboard, and participate in a community-driven ecosystem.|www.magic-ai.xyz
+**Monsta**|Unique crypto game with meme characters and simple earning mechanics|[▶️ Link](https://monsta.game/)
+**Rubyscore**|Multichain analytics and Web3 wallet ranking|[▶️ Link](https://rubyscore.io/)
+**Magic Ai**|MAGIC AI offers a pioneering platform to create diverse NFTs, from cyberpunk to anime, using advanced AI. Earn rewards, climb the leaderboard, and participate in a community-driven ecosystem.|[▶️ Link](www.magic-ai.xyz)
 **CRM**|system for internal needs of the company for personnel monitoring|NDA
 **STS Game**|advertising cashier simulator game, interactive on the page|[▶️ Link](https://pikabu.ru/story/_10706909)
 **Lost Ark**|landing page for the game Ark|[▶️ Link](https://special.pikabu.ru/lost_ark/fourth_birthday)
