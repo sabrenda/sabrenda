@@ -32,7 +32,7 @@ Techonologies | Tools
 
 Project name|Description|link
 -|-|-
-**Qstme**|NDA|NDA
+**Qstme**|Blockchain Quest service|[▶️ Link](https://www.qstme.io/)
 **Monsta**|Unique crypto game with meme characters and simple earning mechanics|[▶️ Link](https://monsta.game/)
 **Rubyscore**|Multichain analytics and Web3 wallet ranking|[▶️ Link](https://rubyscore.io/)
 **Magic Ai**|platform to create diverse NFTs|[▶️ Link](www.magic-ai.xyz)
