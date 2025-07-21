@@ -33,8 +33,8 @@ Techonologies | Tools
 Project name|Description|link
 -|-|-
 **Qstme**|Blockchain Quest service|[▶️ Link](https://www.qstme.io/)
-**Monsta**|Unique crypto game with meme characters and simple earning mechanics|[▶️ Link](https://monsta.game/)
 **Rubyscore**|Multichain analytics and Web3 wallet ranking|[▶️ Link](https://rubyscore.io/)
+**Monsta**|Unique crypto game with meme characters and simple earning mechanics|[▶️ Link](https://monsta.game/)
 **Magic Ai**|platform to create diverse NFTs|[▶️ Link](www.magic-ai.xyz)
 **CRM**|system for internal needs of the company for personnel monitoring|NDA
 **STS Game**|advertising cashier simulator game, interactive on the page|[▶️ Link](https://pikabu.ru/story/_10706909)
